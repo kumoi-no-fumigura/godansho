@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/godansho",
  "yomi": "ごうだんしょう",
  "category": "説話",
- "description": null,
+ "description": {
+  "kind": "説話集（談話筆録）",
+  "era": "長治〜嘉承年間（1104〜08）頃",
+  "author": "大江匡房 談（藤原実兼 筆録）",
+  "desc": "大江匡房の晩年の談話を藤原実兼が書き留めたもの。公事・故実・漢詩文・人物の逸話などを分類して収め、平安後期の宮廷文化を知る資料となる。"
+ },
  "editions": [
   {
    "pid": "1879565",
